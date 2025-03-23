@@ -11,3 +11,5 @@ A couple important things to note:
 Once inside the park, there is a large trail network at a variety of difficulty levels. Red Rock Canyon is spectacular, and the trails toward Four Corners have great views.
 
 When returning, note that the intersection of Jeronimo-El Toro (where you transfer between the 86 and 89) is only 2.5 miles from the Irvine train station. If you miss your connection to the 86, consider just walking along Jeronimo to Alton, go west on Alton to Barranca, and just walk on Barrnca to the station.
+
+Location: https://osm.org/go/TPV2ZuFl-
