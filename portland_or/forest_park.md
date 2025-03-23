@@ -7,3 +7,5 @@ Unfortunately, transit service to the park is sparse, though there is the [Washi
 1. Walk east (towards downtown) a bit until you get to the trailhead, which is [very hidden](https://maps.app.goo.gl/BPFqysFNxADQtZLG8).
 1. The trail network in the park is huge, and many maps don't do justice to the zig-zagging that you'll do so be careful not to underestimate the distance you have to walk back to the city.
 1. When leaving, you can either walk back towards Washington Park for MAX, or leave by [Lower Macleay Park](https://www.portland.gov/parks/trail-lower-macleay), which will also give you the opportunity to go by the [Witch's Castle](https://www.atlasobscura.com/places/the-witches-castle-portland-oregon). Use [Trimet 15 to Gateway TC](https://trimet.org/schedules/r015.htm) at NW 29th & Nicolai if you take this option, noting that only half of 15 trips start west of NW Vaughn & 27th.
+
+Location: https://www.openstreetmap.org/search?query=forest+park+portland#map=14/45.55917/-122.75385
