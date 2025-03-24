@@ -12,3 +12,5 @@ Once you're done exploring the park:
 1. This will join up with the Cross Fells Trail at the Observatory Rock Circuit where it crosses Fellsway.
 1. Continue east on the Cross Fells Trail until you reach the trailhead at the end of Goodyear Ave.
 1. Turn right (South) on Washington Street and walk for about 10 minutes until you reach the Oak Grove station, which is the end of the Orange Line and take it back to Boston.
+
+Location: https://www.openstreetmap.org/way/29861451#map=14/42.44447/-71.09905
